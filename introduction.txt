@@ -1,0 +1,4 @@
+My Introduction
+Hello! I'm learning GitHub.
+My name is Shaariq, and I am studying computer science engineering in AMET University
+My hobby is to gather knowledge about the tech products.
